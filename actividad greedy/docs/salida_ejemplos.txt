@@ -1,0 +1,35 @@
+==================================================
+MOCHILA FRACCIONAL - Ejemplo 1 (capacidad 50)
+==================================================
+Objetos seleccionados:
+  A completo
+  B completo
+  20/30 Parte del objeto C
+Valor total obtenido: 240
+
+==================================================
+MOCHILA FRACCIONAL - Ejemplo 2 (capacidad 25)
+==================================================
+Objetos seleccionados:
+  B completo
+  15/20 Parte del objeto A
+Valor total obtenido: 160
+
+==================================================
+COBERTURA DE ANTENAS - Ejemplo 1
+Casas: [1,2,7,11,20,21,30]  R = 5
+==================================================
+Antenas colocadas aproximadamente en:
+  6
+  25
+Cantidad total: 2
+
+==================================================
+COBERTURA DE ANTENAS - Ejemplo 2
+Casas: [2,4,8,15,18,22]  R = 3
+==================================================
+Antenas colocadas aproximadamente en:
+  5
+  18
+  25
+Cantidad total: 3

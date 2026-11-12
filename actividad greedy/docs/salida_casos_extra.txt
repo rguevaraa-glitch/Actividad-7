@@ -1,0 +1,47 @@
+MOCHILA - Caso propio 1 (capacidad 15, 7 objetos)
+Objetos seleccionados:
+  E completo
+  A completo
+  F completo
+  C completo
+  G completo
+  2/3 Parte del objeto B
+Valor total obtenido: 55.33
+
+MOCHILA - Caso borde: capacidad 0
+Objetos seleccionados:
+  (ninguno)
+Valor total obtenido: 0
+
+MOCHILA - Caso borde: capacidad mayor al peso total (capacidad 100)
+Objetos seleccionados:
+  B completo
+  A completo
+Valor total obtenido: 30
+
+ANTENAS - Caso propio 1: casas desordenadas y repetidas, R = 5
+Casas: [30,1,2,2,7,11,21,20,50,52]
+Antenas colocadas aproximadamente en:
+  6
+  25
+  55
+Cantidad total: 3
+
+ANTENAS - Caso borde: R = 0 (una antena por casa distinta)
+Casas: [4,4,9,12]
+Antenas colocadas aproximadamente en:
+  4
+  9
+  12
+Cantidad total: 3
+
+ANTENAS - Caso borde: una sola casa, R = 3
+Antenas colocadas aproximadamente en:
+  13
+Cantidad total: 1
+
+ANTENAS - Caso borde: todas las casas en un solo intervalo de largo 2R
+Casas: [10,12,14,16,18,20], R = 5
+Antenas colocadas aproximadamente en:
+  15
+Cantidad total: 1

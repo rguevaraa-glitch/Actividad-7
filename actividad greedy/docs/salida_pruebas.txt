@@ -1,0 +1,23 @@
+test_R_cero (tests.test_greedy.TestAntenas.test_R_cero) ... ok
+test_R_negativo (tests.test_greedy.TestAntenas.test_R_negativo) ... ok
+test_desordenadas_y_repetidas (tests.test_greedy.TestAntenas.test_desordenadas_y_repetidas) ... ok
+test_ejemplo_1 (tests.test_greedy.TestAntenas.test_ejemplo_1) ... ok
+test_ejemplo_2 (tests.test_greedy.TestAntenas.test_ejemplo_2) ... ok
+test_optimalidad_vs_fuerza_bruta (tests.test_greedy.TestAntenas.test_optimalidad_vs_fuerza_bruta)
+Compara con fuerza bruta en 300 casos aleatorios pequenos. ... ok
+test_sin_casas (tests.test_greedy.TestAntenas.test_sin_casas) ... ok
+test_una_casa (tests.test_greedy.TestAntenas.test_una_casa) ... ok
+test_capacidad_cero (tests.test_greedy.TestMochila.test_capacidad_cero) ... ok
+test_capacidad_mayor_que_todo (tests.test_greedy.TestMochila.test_capacidad_mayor_que_todo) ... ok
+test_capacidad_negativa (tests.test_greedy.TestMochila.test_capacidad_negativa) ... ok
+test_decimales (tests.test_greedy.TestMochila.test_decimales) ... ok
+test_ejemplo_1 (tests.test_greedy.TestMochila.test_ejemplo_1) ... ok
+test_ejemplo_2 (tests.test_greedy.TestMochila.test_ejemplo_2) ... ok
+test_nunca_excede_capacidad (tests.test_greedy.TestMochila.test_nunca_excede_capacidad) ... ok
+test_peso_invalido (tests.test_greedy.TestMochila.test_peso_invalido) ... ok
+test_sin_objetos (tests.test_greedy.TestMochila.test_sin_objetos) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.033s
+
+OK
